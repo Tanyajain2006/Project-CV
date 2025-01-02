@@ -19,4 +19,3 @@ To practice HTML by creating a structured, single-page CV that includes key sect
 
 ## Website: https://tanyajain2006.github.io/Resume-with-HTML/
 
-Project https://roadmap.sh/projects/single-page-cv
